@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+venv/
+tests/
+__pycache__/
+src/secrets.yml
+

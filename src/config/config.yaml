@@ -1,0 +1,11 @@
+server:
+user:
+password:
+site:
+tokenName:
+tokenSecret:
+gmailuser:
+gmailpassword:
+gmailapppassword:
+host: 127.0.0.1
+port: 5000
